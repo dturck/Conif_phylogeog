@@ -1,0 +1,1 @@
+Please click on 'Conif_phylogeog_supplement' above to access supplement for Community phylogenetics of North American conifers through the lens of fire-adapted traits ![image](https://github.com/user-attachments/assets/ede170be-330e-46db-bd4b-057d82a721e1)
