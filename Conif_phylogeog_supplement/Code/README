@@ -1,0 +1,5 @@
+These folders should have both the R code and necessary files to run said R code. Calculate MPD and MNTD needs 2018_North_America.tre and Absolute_true_master_csv_For_supplement.csv to run. Calculate Species Richness and PD also requires 2018_North_America.tre and Absolute_true_master_csv_For_supplement.csv to run. Note the "2018_North_America.tre" file is a pruned newick version of the phylogenetic tree from Leslie et al. (2018) hosting only North American species. 
+
+Sources:
+
+Leslie et al. (2018) An overview of extant conifer evolution from the perspective of the fossil record. American Journal of Botany. 105(9): 1531–154. 
